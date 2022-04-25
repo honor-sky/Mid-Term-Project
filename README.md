@@ -8,7 +8,7 @@
 
 1. 기본정보  
       1. NAme : 김경민
-      2. Phone ; 010-8328-xxxx
+      2. Phone : 010-8328-xxxx
       3. e-mail : <keung903@naver.com>
       4. Department of Software in Dankook University, South Korea 
       5. Undergraduate (research) student, in BITL 
