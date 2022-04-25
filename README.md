@@ -14,7 +14,7 @@
       5. Undergraduate (research) student, in BITL 
 2. SNS
      1. Instargram : 
-     2. Blog : 
+     2. Blog : https://studyroadmap-kkm.tistory.com/
 3. 
 
 
