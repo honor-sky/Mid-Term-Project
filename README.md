@@ -12,8 +12,8 @@
       + Phone : 010-8328-xxxx
       + e-mail : <keung903@naver.com>
       +  Undergraduate (research) student, Department of Software in Dankook University, South Korea 
-      + Intro :  안녕하세요. 단국대학교 소프트웨어학과에 재학중인 김경민 입니다.
-                 앱개발과
+      + Intro :  안녕하세요. 단국대학교 소프트웨어학과에 재학중인 김경민 입니다.  
+                 앱개발과 데이터 분석/처리 및 인
 2. SNS / Site
      + Instargram : 
      + Study Blog : https://studyroadmap-kkm.tistory.com/
