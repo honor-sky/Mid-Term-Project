@@ -11,9 +11,13 @@
       + Name : 김경민
       + Phone : 010-8328-xxxx
       + e-mail : <keung903@naver.com>
-      +  Undergraduate (research) student, Department of Software in Dankook University, South Korea 
+      + Department of Software in Dankook University, South Korea (Undergraduate)
+      + BITL in Dankook University, South Korea (research student)
       + Intro :  안녕하세요. 단국대학교 소프트웨어학과에 재학중인 김경민 입니다.  
-                 앱개발과 데이터 분석/처리 및 인
+                 빅데이터 분석과 인공지능 개발에 관심이 있어 현재 학부연구생으로 공부하고 연구하고 있습니다.  
+                 개발이 좋아 안드로이드 앱 개발도 공부하고 있습니다.  
+                 데이터 및 인공지능 분석 결과를 앱에 적용시켜 서비스를 제공하는 일을 하고 싶습니다.
+                 
 2. SNS / Site
      + Instargram : 
      + Study Blog : https://studyroadmap-kkm.tistory.com/
@@ -29,6 +33,9 @@
   | RhythmGame | 2020.09.01~2020.11.30 | 닌텐도 리듬게임을 밴치마킹해 파이썬 리듬게임 개발 프로젝트 |
   | BrailleOCR | 2020.12.01~2021.02.28 | OCR 이미지를 점자로 변환하는 딥러닝 프로젝트 |
   | Aniverse | 2021.09.01~2021.11.30 | 유기동물 지원 애플리케이션 플랫폼 개발, 교내 공모전(경소톤) 수상작 |
+  | 빅데이터 안과 과제(4년차) | 2021.01.01~2021.12.31 | OCT 이미지 및 검사지 OCR 이미지를 활용해 녹내장 예측 모델 개발 |
+  | 라이프로그 과제 | 2021.05.01~2022.05.31 | 라이프로그 데이터를 활용해 대사증후군 예측 모델 개발 |
+  | 빅데이터 안과 과제(5년차)| 2022.01.01~2022.12.31 | 안저 사진을 활용해 황반변성 예측 모델 개발 |
 
 ### Hobby
 
