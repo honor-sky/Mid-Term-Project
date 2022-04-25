@@ -13,7 +13,7 @@
       + e-mail : <keung903@naver.com>
       + Department of Software in Dankook University, South Korea (Undergraduate)
       + BITL in Dankook University, South Korea (research student)
-      + Intro :  안녕하세요. 단국대학교 소프트웨어학과에 재학중인 김경민 입니다.  
+      + *Intro* :  안녕하세요. 단국대학교 소프트웨어학과에 재학중인 김경민 입니다.  
                  빅데이터 분석과 인공지능 개발에 관심이 있어 현재 학부연구생으로 공부하고 연구하고 있습니다.  
                  개발이 좋아 안드로이드 앱 개발도 공부하고 있습니다.  
                  데이터 및 인공지능 분석 결과를 앱에 적용시켜 서비스를 제공하는 일을 하고 싶습니다.
