@@ -15,6 +15,9 @@
   3. 세번째 아이템
 
 
+[ReferenceLink](https://www.psjco.com/72)
 
-  [Reference1][Reference Link]
-  [Reference Link]: https://www.psjco.com/72
+<https://www.psjco.com/72>
+
+[Reference1][ReferenceLink] 
+[ReferenceLink]: https://www.psjco.com/72
