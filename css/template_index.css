@@ -20,18 +20,17 @@
     foreground-color: #392f31;
     margin-left:20px;
     margin-right:20px;
-    height:100%;
 }
 
 .menu{
     width:15%;
     height:50%;
     float:left;
-    text-align:center;
+    text-align:left;
 }
 
 .content{
-    width:100%;
+    width:85%;
     float:right;
 }
 
