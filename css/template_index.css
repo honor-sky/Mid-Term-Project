@@ -1,5 +1,6 @@
 #back{
     background-color: #392f31;
+    margin-top:50px;
 }
 
 #img_center{
@@ -29,7 +30,8 @@
 }
 
 .content{
-    width:85%;
+    margin-top:20px;
+    width:100%;
     float:right;
 }
 
