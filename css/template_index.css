@@ -17,7 +17,7 @@
 }
 
 .board{
-    background-color: #392f31;
+    foreground-color: #392f31;
     margin-left:20px;
     margin-right:20px;
     height:100%;
