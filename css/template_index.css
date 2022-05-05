@@ -28,11 +28,6 @@
     margin-left: 0px;
 }
 
-#img_center{
-    width: 600px;
-    height: 300px;
-}
-
 #slideShow{ 
     width: 800px;
     height: 400px; 
@@ -46,7 +41,7 @@
     position: absolute; 
     left: 0;
     top: 30px; 
-    width: 3000px; /* 슬라이드할 사진과 마진 총 넓이 */ 
+    width: 2120px; /* 슬라이드할 사진과 마진 총 넓이 */ 
     transition: left 0.5s ease-out; 
     /*ease-out: 처음에는 느렸다가 점점 빨라짐*/ 
 } 
@@ -59,7 +54,7 @@
 /* 슬라이드들 옆으로 정렬 */ 
 .slides li:not(:last-child){ 
     float: left; 
-    margin-right: 100px;
+    margin-right: 80px;
     
 } 
 
