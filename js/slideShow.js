@@ -22,7 +22,7 @@ prev.addEventListener('click', function () {
      moveSlide(currentIdx);
   });
 
-next.addEventListener('click', function () { 
+next.addEventListener('click', this.moveSlide { 
   /* 마지막 슬라이드로 표시 됐을때는 
   다음 버튼 눌러도 아무런 반응 없게 하기 위해 
   currentIdx !==slideCount - 1 일때만 moveSlide 함수 불러옴 */ 
