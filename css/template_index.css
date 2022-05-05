@@ -19,6 +19,12 @@
     background: #392f31
 }
 
+#contents1{
+    background-color: #000000;
+    width:100%;
+    float:left;
+}
+
 #img_center{
     display: inline;
 }
