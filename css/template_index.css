@@ -4,11 +4,11 @@
 }
 
 #header{
-    width:800px;
-    height : 200px;
-    margin-top: 0px;
     background:url('./img/home.jpg') no-repeat;
     background-size:cover;
+    width : 800px;
+    height : 200px;
+    margin-top: 0px;
     position:relative;  
 }
 #menu ul li{
