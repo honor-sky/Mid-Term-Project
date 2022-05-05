@@ -6,7 +6,7 @@
     width:100%;
     background-color: #000000;
     height : 70px;
-    margin-bottom:0px;
+    margin-top:0px;
 }
 #menu ul li{
     float: left;
@@ -35,7 +35,7 @@
 #slideShow{ 
     width: 600px;
     height: 300px; 
-    object-fit: cover;
+    margin: 450px auto;
     position: relative; 
     overflow: hidden;
     /*리스트 형식으로 이미지를 일렬로 정렬할 것이기 때문에, 500px 밖으로 튀어 나간 이미지들은 hidden으로 숨겨줘야됨*/ 
