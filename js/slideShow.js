@@ -19,6 +19,12 @@ function moveSlide(num) {
 function click(){
   alert("클릭했습니다");
 }
+function mouseEnter(){
+  h1.innerText = "마우스 올라옴";
+}
+function mouseLeave(){
+  h1.innerText = "마우스 나감";
+}
 
 prev.addEventListener('click', function () { 
   /*첫 번째 슬라이드로 표시 됐을때는 이전 버튼 눌러도 아무런 반응 없게 하기 위해 currentIdx !==0일때만 moveSlide 함수 불러옴 */ 
@@ -28,10 +34,11 @@ prev.addEventListener('click', function () {
      moveSlide(currentIdx);
   });
 
-next.addEventListener('click', click() { 
+h1.addEventListener('click', click() { 
   /* 마지막 슬라이드로 표시 됐을때는 
   다음 버튼 눌러도 아무런 반응 없게 하기 위해 
   currentIdx !==slideCount - 1 일때만 moveSlide 함수 불러옴 */ 
 
   });
-
+h1.addEventListener("mouseenter", mouseEnter);
+h1.addEventListener("mouseleave",mouseLeave);
