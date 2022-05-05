@@ -53,5 +53,5 @@
 
 @font-face {
     font-family: 'alittlepot';
-    src: url('../fonts/alittlepot.ttf') format('truetype');
+    src: url('fonts/alittlepot.ttf') format('truetype');
 }
