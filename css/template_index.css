@@ -26,7 +26,8 @@
 }
 
 #img_center{
-    display: inline;
+    margin-top: 120px;
+    display: center;
 }
 
 #left{
