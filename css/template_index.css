@@ -28,9 +28,6 @@
 #img_center{
     width: 600px;
     height: 300px;
-    object-fit: cover;
-    margin-top: 80px;
-    margin-left: 420px;
 }
 
 #slideShow{ 
