@@ -44,14 +44,14 @@
     position: absolute; 
     left: 0;
     top: 0; 
-    width: 3000px; /* 슬라이드할 사진과 마진 총 넓이 */ 
+    width: 2500px; /* 슬라이드할 사진과 마진 총 넓이 */ 
     transition: left 0.5s ease-out; 
     /*ease-out: 처음에는 느렸다가 점점 빨라짐*/ 
 } 
 
 /* 첫 번째 슬라이드 가운데에 정렬하기위해 첫번째 슬라이드만 margin-left조정 */ 
 .slides li:first-child{ 
-    margin-left: 60px;
+    margin-left: 50px;
 } 
 
 /* 슬라이드들 옆으로 정렬 */ 
