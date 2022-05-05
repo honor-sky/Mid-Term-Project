@@ -1,12 +1,12 @@
 #container{
-    width:1200px;
-    height:820px;
+    width:100%;
+    height:670px;
     background-color: #F15B5B;
     margin-top:0px;
 }
 
 #header{
-    width:1200px;
+    width:100%;
     background-color: #000000;
     height : 70px;
     margin-top:0px;
@@ -23,7 +23,7 @@
 #contents1{
     background-color: #A4AAA7;
     width:100%;
-    height: 748px;
+    height: 600px;
     float:left;
     margin-top: 0px;
 }
