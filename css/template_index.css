@@ -72,6 +72,7 @@
     text-align: center;
     border-radius: 50%;  
     top: 50%; 
+    padding: 10px 20px;
     font-size: 1.3em; 
     cursor: pointer; 
 }
@@ -91,6 +92,7 @@
 } 
 
 .next{ 
+    right: 10px;
 } 
 
 /* 다음 화살표에 마우스 커서가 올라가 있을때 이전 화살표가 살짝 오른쪽으로 이동하는 효과*/ 
