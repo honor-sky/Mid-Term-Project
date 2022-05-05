@@ -50,3 +50,8 @@
 .cen{
     text-align: center;
 }
+
+@font-face {
+    font-family: 'alittlepot';
+    src: url('../fonts/alittlepot.ttf') format('truetype');
+}
