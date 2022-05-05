@@ -7,7 +7,7 @@
     width:800px;
     height : 200px;
     margin-top: 0px;
-    background:url("../img/home.jpg") no-repeat;
+    background:url('img/home.jpg') no-repeat;
     background-size:cover;
     position:relative;  
 }
