@@ -4,9 +4,10 @@
 
 #header{
     width:100%;
-    background-color: #000000;
     height : 100px;
     margin-bottom:0px;
+    background-color: #000000;
+   
 }
 
 #menu ul li{
