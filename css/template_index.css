@@ -31,7 +31,7 @@
 }
 
 #slideShow{ 
-    width: 600px;
+    width: 500px;
     height: 300px; 
     position: relative; 
     margin: 50px auto;
@@ -49,13 +49,13 @@
 
 /* 첫 번째 슬라이드 가운데에 정렬하기위해 첫번째 슬라이드만 margin-left조정 */ 
 .slides li:first-child{ 
-    margin-left: 80px; 
+    margin-left: 100px; 
 } 
 
 /* 슬라이드들 옆으로 정렬 */ 
 .slides li:not(:last-child){ 
     float: left; 
-    margin-right: 80px; 
+    margin-right: 100px; 
 } 
 
 .slides li{ 
@@ -67,8 +67,7 @@
     background-color: transparent; 
     color: white;
     text-align: center;
-    border-radius: 50%; 
-    padding: 10px 40px; 
+    border-radius: 50%;  
     top: 50%; 
     font-size: 1.3em; 
     cursor: pointer; 
