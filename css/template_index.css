@@ -8,6 +8,16 @@
     margin-top:0px;
     clear:both;
     background-color: #392f31;
+}
+
+#menu ul li{
+    float: left;
+    width: 34%; 
+    height: 50px;
+    line-height: 50px;
+    text-align: center; 
+    background: #392f31
+}
 
 #img_center{
     display: inline;
