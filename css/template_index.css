@@ -1,13 +1,11 @@
 #container{
     width:100%;
-    margin-top:0px;
 }
 
 #header{
     width:100%;
     background-color: #000000;
     height : 70px;
-    margin-top:0px;
 }
 #menu ul li{
     float: left;
@@ -36,14 +34,13 @@
 #slideShow{ 
     width: 600px;
     height: 300px; 
-    position: relative;
     margin-left: 50px auto;
     overflow: hidden;
     /*리스트 형식으로 이미지를 일렬로 정렬할 것이기 때문에, 500px 밖으로 튀어 나간 이미지들은 hidden으로 숨겨줘야됨*/ 
 } 
 .slides{ 
     position: absolute; 
-    left: 400p; 
+    left: 450p; 
     top: 80px; 
     width: 2800px; /* 슬라이드할 사진과 마진 총 넓이 */ 
     transition: left 0.5s ease-out; 
