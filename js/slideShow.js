@@ -28,6 +28,7 @@ next.addEventListener('click', function () {
   currentIdx !==slideCount - 1 일때만 moveSlide 함수 불러옴 */ 
   if (currentIdx !== slideCount - 1) { 
     moveSlide(currentIdx + 1); 
-  } 
-});
+  } else{
+     moveSlide(currentIdx);
+  });
 
