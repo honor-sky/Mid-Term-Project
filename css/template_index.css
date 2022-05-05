@@ -4,8 +4,6 @@
 }
 
 #header{
-    backgroud: url("../img/home.jpg") no-repeat;
-    backgroud-size: cover;
     width : 800px;
     height : 200px;
     position:relative;  
