@@ -17,11 +17,11 @@
     height: 50px;
     line-height: 50px;
     text-align: center; 
-    background: #A4AAA7;
+    background-color: #00ff00;
 }
 
 #contents1{
-    background-color: #000000;
+    background-color: #A4AAA7;
     width:100%;
     height: 748px;
     float:left;
