@@ -30,8 +30,11 @@
 }
 
 #img_center{
+    width: 600px;
+    height: 200px;
+    object-fit: cover;
     margin-top: 80px;
-    margin-left: 400px;
+    margin-left: 420px;
 }
 
 #left{
