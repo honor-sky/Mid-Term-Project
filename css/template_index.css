@@ -58,7 +58,7 @@
 /* 슬라이드들 옆으로 정렬 */ 
 .slides li:not(:last-child){ 
     float: left; 
-    margin-left: 100px;
+    margin-right: 100px;
     
 } 
 
