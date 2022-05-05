@@ -4,11 +4,10 @@
 }
 
 #header{
-    backgroud: url("img/home.jpg") no-repeat;
+    backgroud: url("../img/home.jpg") no-repeat;
     backgroud-size: cover;
     width : 800px;
     height : 200px;
-    margin: 0 auto;
     position:relative;  
 }
 #menu ul li{
