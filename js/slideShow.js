@@ -6,6 +6,8 @@ const next = document.querySelector('.next'); //다음 버튼
 const slideWidth = 400; //한개의 슬라이드 넓이 
 const slideMargin = 100; //슬라이드간의 margin 값 
 
+const h1 = document.querySelector("h1");
+
 //전체 슬라이드 컨테이너 넓이 설정 
 slides.style.width = (slideWidth + slideMargin) * slideCount + 'px'; 
 
