@@ -52,6 +52,7 @@
     object-fit: cover;
     overflow: hidden;
     position: fixed;
+    float:left;
 }
 
 .img_center{
