@@ -46,7 +46,7 @@
     overflow: hidden;
 }
 
-#imgtext{
+.imgtext{
     posotion: fixed;
     color:white;
     font-family:HSYuji-Regular;
