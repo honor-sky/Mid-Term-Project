@@ -25,7 +25,7 @@
     float:left;
 }
 #contents2{
-    background-color: #000000;
+    background-color: #ffffff;
     width:100%;
     height: 800px;
     float:left;
@@ -41,7 +41,7 @@
     width: 800px;
     height: 400px; 
     position: relative; 
-    margin-left: 350px;
+    margin-left: 50px;
     margin-top: 50px;
     overflow: hidden;
     /*리스트 형식으로 이미지를 일렬로 정렬할 것이기 때문에, 500px 밖으로 튀어 나간 이미지들은 hidden으로 숨겨줘야됨*/ 
@@ -74,7 +74,7 @@
 .controller span{ 
     position:absolute;
     background-color: transparent; 
-    color: white;
+    color: black;
     text-align: center;
     border-radius: 50%;  
     top: 50%; 
