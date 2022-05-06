@@ -57,6 +57,7 @@
     object-fit: cover;
     overflow: hidden;
     float:left;
+    left: 50px;
 }
 
 .lb-text{
