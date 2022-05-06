@@ -17,6 +17,16 @@
     height: 50px;
     line-height: 50px;
     text-align: center; 
+    background-color: #ffffff;
+    position: fixed;
+}
+
+#menu2 ul li{
+    float: left;
+    width: 33%; 
+    height: 50px;
+    line-height: 50px;
+    text-align: center; 
     background-color: #00ff0000;
     position: fixed;
 }
