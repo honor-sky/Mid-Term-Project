@@ -17,9 +17,10 @@
     height: 50px;
     line-height: 50px;
     text-align: center; 
+    background-color: #00ff0000;
     position: fixed;
-    background-color: #ffffff;
 }
+
 #contents1{
     background-color: #ffffff;
     width:100%;
